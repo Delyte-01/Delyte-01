@@ -7,5 +7,8 @@ HTML5
 CSS3
 JavaScript
 React
+Tailwindcss
+Next js
+
 
 
